@@ -1,6 +1,6 @@
 # Spellbook-Generator
 This is a tool I made for random spellbook generation in 5e Dungeons and Dragons (and other games that use the 5e SRD).
-[Visit the webpage in action here.] (http://web.cecs.pdx.edu/~arredon/spellbook/)
+[Visit the webpage in action here.] (https://djarredon.github.io/)
 
 ## Project right now
 User selects a class level for the wizard whose spellbook they are creating. The spellbook is populated with the minimum number of spells that that wizard would know for their level (6 at level one, plus two more per level), with new spells being added at the highest available spell slot.
